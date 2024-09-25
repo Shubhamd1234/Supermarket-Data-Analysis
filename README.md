@@ -1,15 +1,16 @@
 🛒 Supermarket Data Analysis Using Python
+
 📄 Overview
 Analyzed supermarket data to reveal top products, city sales trends, payment preferences, and customer ratings. Explored revenue by category and customer type, and assessed time-based sales patterns.
 
 🔄 Workflow
-Step 1: Importing the required libraries
-Step 2: Loading the Dataset
-Step 3: Basic Understanding of Data
-Step 4: Data Preprocessing
-Step 5: Exploratory Data Analysis (EDA) along with Insights
-Step 6: Summary of Insights
+Importing the required libraries
+Loading the Dataset
+Basic Understanding of Data
+Data Preprocessing
+Exploratory Data Analysis (EDA) along with Insights
 
+Summary of Insights
 🔑 Key Insights
 Top Performing Product Line
 Total Sales and Revenue Trend
@@ -20,7 +21,6 @@ Customer Rating Analysis
 Category-wise Revenue
 Customer Type Analysis
 Time-based Sales Trend
-
 🛠️ Tools, Concepts & Technologies
 Technologies Used
 Developed using Python with:
@@ -35,7 +35,11 @@ CSV Dataset: Analyzed data from a CSV file using Pandas
 supermarket_sales
 
 📊 Visualizations
-BarCharts,Line Graphs, Heatmaps, Boxplots, Pie Charts.
+Bar Charts
+Line Graphs
+Heatmaps
+Boxplots
+Pie Charts
 
 🔍 Analysis Techniques
 Pandas Functions: groupby, merge, describe, time_series_analysis
