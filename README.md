@@ -45,3 +45,4 @@ Developed using Python with:
 ## 🔍 Analysis Techniques
 - **Pandas Functions**: `groupby`, `merge`, `describe`, `time_series_analysis`
 - **Feature Engineering**: Creating new features and transforming existing ones for improved analysis
+- **EDA**: Univariate and Bivariate Analysis and more.
